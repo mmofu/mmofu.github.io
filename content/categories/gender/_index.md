@@ -1,10 +1,10 @@
 ---
-title: 性别
-description: 关于性别/跨性别的所思所想
+title: 跨性别
+description: Everything about trans
 image:
 
 # Badge style
 style:
-    background: "#2a9d8f"
-    color: "#fff"
+    background: "#5bcefa"
+    color: "#f5a9b8"
 ---
