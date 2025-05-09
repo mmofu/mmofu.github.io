@@ -6,5 +6,7 @@ image:
 # Badge style
 style:
     background: "#5bcefa"
-    color: "#f5a9b8"
+        #image: 
+        #    "linear-gradient(#5bcefa, #f5a9b8)"
+    color: "#fff"
 ---

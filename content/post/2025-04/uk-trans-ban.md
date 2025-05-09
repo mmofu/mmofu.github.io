@@ -2,7 +2,7 @@
 title: 英国——TERF Island?
 date: 2025-04-19 02:26:00-0700
 categories:
-    - gender
+    - social-analysis
 ---
 
 这两天，英国的最高法出了一个判例，规定平权法中的性别，只能指出生时的“生物性别”。英国本地和国内的很多女性都在弹冠相庆。

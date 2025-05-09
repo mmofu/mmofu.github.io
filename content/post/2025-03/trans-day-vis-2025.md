@@ -2,7 +2,7 @@
 title: 写于2025年跨性别现身日
 date: 2025-03-31 12:00:00-0700
 categories:
-    - gender
+    - random-thoughts
 ---
 
 *Trigger Warning: 对跨性别群体的歧视性词汇*
