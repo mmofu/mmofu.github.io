@@ -1,6 +1,6 @@
 ---
 title: 写于2025年跨性别现身日
-date: 2025-03-31 12:00:00 PDT
+date: 2025-03-31 12:00:00-0700
 image: cover.jpg
 categories:
     - gender
