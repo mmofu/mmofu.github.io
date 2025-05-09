@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 性别
+description: 关于性别/跨性别的所思所想
 image:
 
 # Badge style
