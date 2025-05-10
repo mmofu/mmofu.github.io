@@ -133,8 +133,8 @@ repoID = "R_kgDOOm8LFA"
 category = "Announcements"
 categoryID = "DIC_kwDOOm8LFM4Cp9lO"
 mapping = "pathname"
-lightTheme = "preferred_color_scheme"
-darkTheme = "preferred_color_scheme"
+lightTheme = "catppuccin_latte"
+darkTheme = "catppuccin_macchiato"
 reactionsEnabled = 1
 emitMetadata = 0
 
