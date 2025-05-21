@@ -1,7 +1,7 @@
 ---
 title: 帝国的余晖，「赢学」，和性别范式
 date: 2025-05-20 20:50:00-0700
-image: IMG_6878.jpg
+image: img/cover.jpg
 categories:
     - random-thoughts
 ---
